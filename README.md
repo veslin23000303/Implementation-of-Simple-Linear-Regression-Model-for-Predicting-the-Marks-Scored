@@ -78,8 +78,34 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![Screenshot 2024-08-30 225433](https://github.com/user-attachments/assets/c2e4d67e-7d93-48a7-bf57-3e8053925ada)
-![Screenshot 2024-08-30 225616](https://github.com/user-attachments/assets/d3e84b16-3fdb-4ba3-a49d-b16b3f314cb4)
+![Screenshot 2024-08-30 225433](https://github.com/user-attachments/assets/df1558eb-63f7-42ff-94a6-5b1ce3c0d6ea)
+![Screenshot 2024-08-30 225458](https://github.com/user-attachments/assets/16d328f9-7dcc-44f5-86b9-d00942ed78d2)
+![Screenshot 2024-08-30 225532](https://github.com/user-attachments/assets/15b609ba-aa78-48f2-9a64-7d70efbd529b)
+![Screenshot 2024-08-30 225553](https://github.com/user-attachments/assets/f42cde42-0655-41b0-b7ab-34bb977bb29a)
+![Screenshot 2024-08-30 225616](https://github.com/user-attachments/assets/111d7436-499c-4bbf-92f7-75bc8702112f)
+![Screenshot 2024-08-30 225633](https://github.com/user-attachments/assets/18e88c4e-24bf-4578-87d5-8976396f1562)
+![Screenshot 2024-08-30 225719](https://github.com/user-attachments/assets/5fb791e4-2552-46da-bc14-87a3aee61f7f)
+![Screenshot 2024-08-30 225736](https://github.com/user-attachments/assets/74b834e8-a7fd-4398-8881-e35f3173271c)
+![Screenshot 2024-08-30 225753](https://github.com/user-attachments/assets/191351bf-e271-4492-95f6-7497b8e12cd4)
+![Screenshot 2024-08-30 225815](https://github.com/user-attachments/assets/2ef9b6a2-7dee-4a10-a51c-901452612e9f)
+![Screenshot 2024-08-30 225838](https://github.com/user-attachments/assets/529ff4d7-5117-438a-8457-acee8b6c7b79)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
